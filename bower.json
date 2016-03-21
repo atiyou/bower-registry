@@ -1,0 +1,18 @@
+{
+  "name": "bower-registry",
+  "description": "Loading express server to mimic default bower registry using Nexus",
+  "main": "index.js",
+  "authors": [
+    "Youssef ATIK"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "https://github.com/atiyou",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
