@@ -1,3 +1,5 @@
+----------------------------------
+----------------------------------
 
 As Nexus do not provide yet a native mecanism to manage json librairies, 
 We are using "nexus-bower-resolver" which should be installed through : npm install nexus-bower-resolver
